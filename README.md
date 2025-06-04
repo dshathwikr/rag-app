@@ -19,7 +19,7 @@ This project implements a Retrieval-Augmented Generation (RAG) API using FastAPI
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dshathwikr/rag-app.git
    cd rag-app
    ```
 
